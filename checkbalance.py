@@ -18,8 +18,3 @@ bank.check_balanace()
 bank.Depositemoney(500)
 bank.withdraw(300)
 bank.check_balanace()
-        
-        
-
-
-
